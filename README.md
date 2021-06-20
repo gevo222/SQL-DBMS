@@ -1,5 +1,5 @@
 # SoftwareDBMS
-An SQL file and schema that creats a database for a software development company. Normalized to third normal form. Includes some sample queries.
+An SQL file and schema that creates a database for a software development company. Normalized to third normal form. Includes some sample queries.
 
 # What I Learned
 * Creating database schemas.
